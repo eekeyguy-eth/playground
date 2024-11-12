@@ -25,3 +25,5 @@ jobs:
         run: python cBTC_base.py
       - name: Run cbBTC.py
         run: python cbBTC.py
+      - name: Run cbBTC_solana.py
+        run: python cbBTC_solana.py
